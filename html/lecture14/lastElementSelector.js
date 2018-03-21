@@ -1,0 +1,1 @@
+$("p:last").text("-->Last pargraph selected");

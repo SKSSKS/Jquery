@@ -1,4 +1,4 @@
 $("#name").focusin(function()
 {
-    $("#yourName").html("Type your name");
-})
+    $("#info").html("Type your name");
+});

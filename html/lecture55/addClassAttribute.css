@@ -1,0 +1,7 @@
+.bold{
+    background-color:gainsboro;
+    color: red;
+    border: 2px solid maroon;
+    font-size: 20px;
+    padding: 5px;
+}

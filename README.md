@@ -1,3 +1,3 @@
 # jquery
 
-All the lecture codes of jQuery tutorial of phpacademy.com.
+phpacademy.com jQuery tutorial's codes.

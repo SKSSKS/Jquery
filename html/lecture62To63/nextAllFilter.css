@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color: rgb(255, 0, 0)
+}
+
+ul{
+    list-style-type:none;;
+}
+
+.bold{
+    font-style: italic;
+    font-family: fantasy;
+    font-size: 20px;
+}

@@ -1,0 +1,1 @@
+$("#names").sortable({containment:"parent",tolerance:"pointer"});

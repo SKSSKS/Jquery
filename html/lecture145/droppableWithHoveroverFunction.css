@@ -1,0 +1,7 @@
+#drop{
+    height: 300px;
+    width: 300px;
+    background-color: springgreen;
+    
+}
+.changeBorder{ border: 10px solid red}

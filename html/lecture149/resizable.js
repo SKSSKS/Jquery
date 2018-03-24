@@ -1,0 +1,4 @@
+$("#resize").resizable(
+{
+     containment : "parent",
+})

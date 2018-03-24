@@ -1,0 +1,16 @@
+#resize{
+    background-color: maroon;
+    border:2px solid lime;
+    padding: 5px;
+    height: 300px;
+    width: 300px;
+
+}
+
+#parentBox{
+    background-color:magenta;
+    border:2px solid mediumblue;
+    padding: 5px;
+    height: 500px;
+    width: 500px;
+}

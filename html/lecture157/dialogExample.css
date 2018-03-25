@@ -1,0 +1,10 @@
+body{
+    background-color: dimgray;
+}
+p{
+    text-align: center;
+}
+#button{
+    background-color: lime;
+    color: dodgerblue;
+}
